@@ -1,3 +1,7 @@
+== 0.2.0
+* Using kramdown instead of redcarpet
+* Removed zp executable since it should be an alias instead.
+
 == 0.1.0
 
 * Original version
